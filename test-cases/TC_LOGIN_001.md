@@ -21,6 +21,6 @@
 **Expected Result:**
 The user should successfully log in and be redirected to the products page.
 
-**Actual Result:** Not executed yet
+**Actual Result:** User successfully logged in with valid credentials and was redirected to the Products page (`/inventory.html`).
 
-**Status:** Not Run
+**Status:** Pass
