@@ -24,3 +24,6 @@ The user should successfully log in and be redirected to the products page.
 **Actual Result:** User successfully logged in with valid credentials and was redirected to the Products page (`/inventory.html`).
 
 **Status:** Pass
+## Test Evidence
+
+![Successful login - Products page](../TC_LOGIN_001_pass.png)
